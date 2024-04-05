@@ -118,13 +118,11 @@ const Benefits = () => {
             <Box>
               <Text as="h2" fontWeight="semibold" mb={4}>Why Choose Us</Text>
               <Text>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+               we are expected clients to choose us because definately, they can learn and earn,
+                in such a way that if a client comes to our platform, the client read about a product
+                that is not well known to them, and they now read about a particular product, and after
+                reading about that product, you answer the questions that follows and earned some point
+                based on the answer provided.
               </Text>
             </Box>
           </Box>
