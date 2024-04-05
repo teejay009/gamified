@@ -23,7 +23,7 @@ const Footer = () => {
             <Box className='logo'>
               <img src='../images/logo-light.png' alt='' width="150px" />
               <Text as="h2" fontWeight="500" marginBottom="20px">Do You Need Help With Anything?</Text>
-              <Text color="grey" marginBottom="20px">Receive updates, hot deals, tutorials, discounts sent straight to your inbox every month</Text>
+              <Text color="grey" marginBottom="20px">Receive update, hot deals, tutorials, discounts sent straight to your inbox every month</Text>
 
               <Flex className='input'>
                 <Input type='text' placeholder='Email Address' backgroundColor="#fff" padding="17px" borderRadius="5px" />
